@@ -55,58 +55,60 @@ Risk: Medium  -> scope creep
 
 +++
 
-###Step 1. Don't Start Developing Just Yet 
+### Step 1. Don't Start Developing Just Yet 
 
 +++ 
 
-###Step 2. Requirement Engineering / Idea Validation 
+### Step 2. Requirement Engineering / Idea Validation 
 
 *Product Goals, Business Goals, Non-Goals, Risk, market check*
 
 +++ 
 
-###Step 3. Research & Plan Your Work 
+### Step 3. Research & Plan Your Work 
 
 *Research, Cards, Swimlanes, Schema, Roles*
 
 +++
 
-###Step 4. Tools You Can Use 
+### Step 4. Tools You Can Use 
 
 *Trello, Schema Designer, Slack, Github project*
 
 +++
 
-###Step 5. Work Flow 
+### Step 5. Work Flow 
 
 *Never work on master branch, review each other's code before merging
 
 +++
 
-###Step 6. Start Work 
+### Step 6. Start Work 
 
 +++
 
-###Step 7. Communication 
+### Step 7. Communication 
 
 *Talk to each other and follow up on work closely, remember to present to the client on every milestone achieved  to get feedback*
+
++++
 
 ###Step 8. Plug all holes, get ready for the pitch!
 
 ---
 
-#Teamwork 
+# Teamwork 
 
 +++
 
-###Handling Differences 
+### Handling Differences 
 *Don't do GIT BLAME*
 
 +++
 
-###Everyone has different skill level, do what you are best at and give your best
+### Everyone has different skill level, do what you are best at and give your best
 
 +++
 
-###Chill... and ENJOY this journey together! :D
+### Chill... and ENJOY this journey together! :D
 
